@@ -1,0 +1,19 @@
+{
+  "name": "js-modules",
+  "version": "1.0.0",
+  "description": "Reusable modules",
+  "main": "array-func.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngearing/js-modules.git"
+  },
+  "author": "ngearing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngearing/js-modules/issues"
+  },
+  "homepage": "https://github.com/ngearing/js-modules#readme"
+}
